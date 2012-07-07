@@ -1,0 +1,23 @@
+###################################################
+# Syntax Coloring Map For ContinuousRotationServo #
+###################################################
+
+###################################################
+# Datatypes (KEYWORD1)
+###################################################
+
+ContinuousRotationServo KEYWORD1
+
+###################################################
+# Methods and Functions (KEYWORD2)
+###################################################
+
+begin KEYWORD2
+rotate KEYWORD2
+rotateLeft KEYWORD2
+rotateRight KEYWORD2
+noMovement KEYWORD2
+
+###################################################
+# Constants (LITERAL1)
+###################################################
