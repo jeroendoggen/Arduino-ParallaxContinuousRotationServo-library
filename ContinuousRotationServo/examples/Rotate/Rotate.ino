@@ -5,7 +5,7 @@ int distance;
 
 void setup()
 {
-  Servo.begin(0);
+  Servo.begin(2);
 }
 
 void loop()
