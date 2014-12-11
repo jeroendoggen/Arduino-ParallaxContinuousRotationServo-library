@@ -1,11 +1,8 @@
-# Overview
-
 This project is a free initiative to create an Arduino library for the *Parallax (Futaba) Continuous Rotation Servo*. 
 The main goal is to provide a library that simplifies the usage of this particular servo in Arduino projects.
 
- * More info: http://www.parallax.com/tabid/768/ProductID/102/Default.aspx
-
-In the file "!ContinuousRotationServo.cpp" you can find more details on the implemention and some code comments.
+More info: http://www.parallax.com/tabid/768/ProductID/102/Default.aspx
+Datasheet: http://www.parallax.com/Portals/0/Downloads/docs/prod/motors/900-00008-CRServo-v2.2.pdf
 
 ## Library Usage
  * Download the source
@@ -15,8 +12,5 @@ In the file "!ContinuousRotationServo.cpp" you can find more details on the impl
  * Compile & upload code
  * The servo should be moving
 
-## How the Servo Works
-Datasheet: http://www.parallax.com/Portals/0/Downloads/docs/prod/motors/900-00008-CRServo-v2.2.pdf
-
-==Feedback==
+## Feedback
 Please create an issue or contact jeroendoggen at gmail dot com 
